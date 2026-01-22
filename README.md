@@ -13,6 +13,7 @@ Profissional com **15 anos de trajetória na área de TI**, atualmente em transi
 - **Banco de Dados:** MySQL / SQL Server.
 - **Frontend:** HTML5, CSS3.
 - **Design/Multimídia:** Photoshop, Illustrator, Premiere.
+- **Análise de Dados:** Excel Avançado (VBA/Macros), MySQL, SQL Server.
 
 ### 📈 No que estou trabalhando agora?
 Atualmente estou organizando meus projetos acadêmicos e do Bootcamp do Santander para demonstrar minha evolução em:
